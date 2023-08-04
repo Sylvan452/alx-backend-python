@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This Module contains a function that returns a string representation of a float"""
+"""This Module contains a function that returns a string rep of float"""
 
 
 def to_str(n: float) -> str:
