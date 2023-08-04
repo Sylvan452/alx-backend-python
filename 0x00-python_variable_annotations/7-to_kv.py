@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""This Module contains a function that converts a 
-Python variable to a Key-value pair."""
+"""Module contains function that converts Python var to a Key-value pair."""
 
 from typing import Union, Tuple
 
