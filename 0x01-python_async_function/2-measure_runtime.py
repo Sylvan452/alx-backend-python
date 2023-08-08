@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module with function that measures total execution time for an 
+Module with function that measures total execution time for an
 imported module wait_n(n, max_delay)
 """
 
