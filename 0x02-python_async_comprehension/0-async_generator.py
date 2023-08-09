@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''  
+'''
  This coroutine task called async_generator takes no arguments.
  it will loops 10 times, each time asynchronously wait till
  1 second, then yield a random number between 0 and 10. Use the random module.
